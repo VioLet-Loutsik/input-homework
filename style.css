@@ -1,0 +1,27 @@
+.time{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    gap: 5px;
+}
+
+.animal{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    gap: 5px;
+}
+.checkbox{
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    
+}
+/* 
+p {
+    text-decoration: line-through;
+} */
+
+.checkbox.checkbox_new{
+    text-decoration: line-through;
+}
